@@ -1,0 +1,8 @@
+C:\Users\10012125\desktop\wk41\bin\Debug\netcoreapp1.1\wk41.deps.json
+C:\Users\10012125\desktop\wk41\bin\Debug\netcoreapp1.1\wk41.runtimeconfig.json
+C:\Users\10012125\desktop\wk41\bin\Debug\netcoreapp1.1\wk41.runtimeconfig.dev.json
+C:\Users\10012125\desktop\wk41\bin\Debug\netcoreapp1.1\wk41.dll
+C:\Users\10012125\desktop\wk41\bin\Debug\netcoreapp1.1\wk41.pdb
+C:\Users\10012125\desktop\wk41\obj\Debug\netcoreapp1.1\wk41.AssemblyInfo.cs
+C:\Users\10012125\desktop\wk41\obj\Debug\netcoreapp1.1\wk41.dll
+C:\Users\10012125\desktop\wk41\obj\Debug\netcoreapp1.1\wk41.pdb
